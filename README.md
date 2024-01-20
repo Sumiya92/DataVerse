@@ -1,7 +1,7 @@
 # DataVerse
 
-<a href="https://github.com/Rich-Harris/magic-string/blob/master/LICENSE.md">
-  <img src="https://img.shields.io/npm/l/magic-string.svg"
+<a href="https://github.com/sivakumar-mahalingam/DataVerse/blob/master/LICENSE.md">
+  <img src="https://img.shields.io/npm/l/dataverse.svg"
        alt="license">
 </a>
 
