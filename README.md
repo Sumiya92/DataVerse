@@ -9,4 +9,6 @@ A curated collection of open-source and free datasets spanning diverse domains. 
 
 ## License
 
-MIT
+Creative Commons Legal Code
+
+CC0 1.0 Universal
